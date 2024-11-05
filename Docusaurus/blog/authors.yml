@@ -1,23 +1,19 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+danniel:
+  name: Danniel-Ang
+  title: Emotional Support Competitive Programmer
+  url: https://github.com/danniel-ang
+  image_url: https://github.com/danniel-ang.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    linkedin: danniel-ang-47684b277
+    github: Danniel-Ang
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+thorbert:
+  name: thorbert-anson-shi
+  title: Protein bar in human form
+  url: https://github.com/thorbert-anson-shi
+  image_url: https://github.com/thorbert-anson-shi.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: thorbertansonshi
+    github: thorbert-anson-shi
