@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[486],{8525:s=>{s.exports=JSON.parse('{"tags":[{"label":"POP QUIZ","permalink":"/242saurus/blog/tags/POPQUIZ","description":"ISSA POP QUIZZA","count":1},{"label":"WEEK07","permalink":"/242saurus/blog/tags/WEEK07","description":"ZA SEVENTHA WEEKA","count":1}]}')}}]);
